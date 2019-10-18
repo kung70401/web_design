@@ -1,0 +1,25 @@
+body{
+    /* 背景色BGC */
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    /* 文字大小F */
+    font-size: 30px;
+}
+#carouselExampleCaptions .carousel-item img {
+    /* 物件適合大小 */
+    object-fit: cover;
+    /* width: 100%; */
+    height: 500px;
+
+}
+#donuts .carousel-item img{
+    object-fit: cover;
+    /* width: 100%; */
+    height: 300px;
+
+}
+footer{
+    height:100px;
+    line-height: 100px;
+}
