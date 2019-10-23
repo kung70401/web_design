@@ -4,7 +4,7 @@ body{
 }
 .container{
     /* 容器寬度 */
-    width:1400px !important;
+    /* width:1400px !important; */
 }
 
 h2{
@@ -50,4 +50,7 @@ footer{
 }
 #graphic{
     margin-top: 30px;
+}
+*{
+        font-family: "Microsoft JhengHei";
 }
